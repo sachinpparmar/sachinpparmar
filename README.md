@@ -21,6 +21,10 @@
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=sachinpparmar&show_icons=true&locale=en&layout=compact" alt="sachinpparmar" /></p>
 
+
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sachinpparmar&show_icons=true&locale=en" alt="sachinpparmar" /></p>
+
+
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sachinpparmar&" alt="sachinpparmar" /></p>
